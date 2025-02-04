@@ -6,7 +6,7 @@ A local AI chatbot implementation that prioritizes privacy by running completely
 This repository is part of a comprehensive learning initiative that includes:
 - 📝 Complete source code and implementation
 - 📚 Step-by-step documentation
-- 📺  [Detailed Video Tutorial]([your_video_link_here](https://youtu.be/9gHpoN9Nadk))
+- 📺  [Detailed Video Tutorial](https://youtu.be/9gHpoN9Nadk)
 For a detailed walkthrough of the implementation and concepts:
 Watch the Complete Tutorial
 In this video, we cover:
