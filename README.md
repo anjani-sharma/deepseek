@@ -28,7 +28,7 @@ A local AI chatbot implementation that prioritizes privacy by running completely
 4. Install requirements:
    ```python
    pip install -r requirements.txt
-5. IRun the application:
+5. Run the application:
    ```python
    streamlit run app.py
 
