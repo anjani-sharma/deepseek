@@ -93,5 +93,32 @@ Ask questions, generate code, or create creative content
 All interactions stay private on your machine
 
 
+## 📖 Additional Resources
+
+### Core Documentation
+- [DeepSeek Documentation](https://github.com/deepseek-ai/DeepSeek-LLM) - DeepSeek's revolutionary approach to language models represents a shift in how we think about AI accessibility. Their documentation provides crucial insights into model architecture and deployment strategies.
+
+- [OLLAMA Framework](https://ollama.ai/download) - OLLAMA fundamentally challenges the cloud-first paradigm of AI deployment by enabling robust local execution. Their framework documentation outlines the technical architecture that makes this privacy-first approach possible.
+
+- [Langchain Documentation](https://python.langchain.com/docs/get_started/introduction.html) - Langchain has become instrumental in democratizing AI development by providing an abstraction layer that makes complex LLM interactions more accessible and manageable.
+
+### Essential Guides
+- [Streamlit Documentation](https://docs.streamlit.io) - Understanding Streamlit's approach to rapid application development is crucial for building intuitive AI interfaces.
+
+- [Python Virtual Environments](https://docs.python.org/3/tutorial/venv.html) - Fundamental knowledge for maintaining clean, reproducible development environments.
+
+### Privacy & Security Resources
+- [AI Privacy Best Practices](https://www.privacyguides.org) - Critical reading for understanding the broader implications of AI deployment choices.
+
+- [Local LLM Security Considerations](https://github.com/ollama/ollama/blob/main/docs/security.md) - Essential security context for local AI deployment.
+
+### Community & Support
+- [DeepSeek GitHub Discussions](https://github.com/deepseek-ai/DeepSeek-LLM/discussions)
+- [OLLAMA Discord Community](https://discord.com/invite/ollama)
+- [Langchain Forum](https://github.com/langchain-ai/langchain/discussions)
+
+Each of these resources contributes to a broader understanding of not just the technical implementation, but the philosophical and practical implications of privacy-first AI development. They represent crucial touchpoints in the ongoing dialogue about responsible AI deployment and democratization.
+
+
 📝 Note
 This project is designed for users who prioritize data privacy while wanting to leverage the power of AI. It's ideal for developers, businesses, and individuals who need to maintain control over their data.
