@@ -25,11 +25,10 @@ A local AI chatbot implementation that prioritizes privacy by running completely
    ```python
    python -m venv .venv
    source .venv/bin/activate  # On Windows: .venv\Scripts\activate
-Install requirements:
-pythonCopypip install -r requirements.txt
-
-Run the application:
-pythonCopystreamlit run app.py
+4. Install requirements:
+  pip install -r requirements.txt
+5. Run the application:
+  streamlit run app.py
 
 
 🚀 Usage
